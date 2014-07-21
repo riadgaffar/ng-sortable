@@ -29,7 +29,7 @@
     "angular-mocks": "1.2.x",
     "angular-scenario": "1.2.x",
     "angular-route": "1.2.x",
-    "ng-sortable": "https://github.com/riadgaffar/ng-sortable"
+    "ng-sortable": "1.1"
   },
   "ignore": [
     "node_modules", "bower_components",
